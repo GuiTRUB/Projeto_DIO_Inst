@@ -1,6 +1,6 @@
->>>>>>> # Projeto Clone Instagram
+>>>>>>> # Recriando a página inicial do instagram.
 >>>>>>>
 >>>>>>> ### Objetivo
 >>>>>>>
->>>>>>> - Promover um clone da pagina do instagram, acrescentado um pouco de personalidade.
+>>>>>>> - Recriar página inicial do instagram, acrescentado um pouco da minha personalidade!
 
